@@ -1,4 +1,4 @@
-![이미지이름](./frontend/src/assets/userImage/icons8-around-the-globe-100.png)
+![이미지이름](/frontend/src/assets/userImage/icons8-around-the-globe-100.png)
 # **TRIPLOG** 
     TRIPLOG는 여행을 공유하기 위한 블로그 입니다.
     여러분들은 여행 게시글을 원하는대로 올릴 수 있으며, 게시글을 쓰기위해 이미지와 코멘트를 간단히 등록할 수도 있습니다.
